@@ -17,8 +17,8 @@ namespace Ch8_studentExercises
         public List <Instructor> rosterOfInstructors {get; set;}
 
         public Cohort() {
-        StudentRoster = new List<Student>();
-        InstructorRoster= new List<Instructor>();
+        rosterOfStudents = new List<Student>();
+        rosterOfInstructors= new List<Instructor>();
        }
 
     }
