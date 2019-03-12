@@ -1,4 +1,3 @@
-// using System;
 namespace Ch8_studentExercises
 
 // You must define a type for representing an exercise in code. An exercise can be assigned to many students.
